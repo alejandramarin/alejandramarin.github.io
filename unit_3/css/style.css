@@ -22,11 +22,12 @@ font-size: 20px;
 font-weight: normal;
 font-style: normal;
 color: #B81DBC;
+padding: 50px 80px 20px 80px; 
 }
 
 ul {
 	font-family: Arial, sans-serif;
-	font-size: 24px;
+	font-size: 20px;
 	text-align: left;
 	list-style-type: none;
 	color: #B81DBC;
@@ -34,9 +35,13 @@ ul {
 
 img {width: 1200px;
 height: auto;
+padding-right: 80px;
+padding-left: 80px;
 }
 
-a {font-weight: bold;
+a {
+	font-family: Arial, sans-serif;
+	font-weight: bold;
 font size: 20px;
 color: white;
 text-decoration: underline;
