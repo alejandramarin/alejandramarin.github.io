@@ -25,12 +25,14 @@ color: #B81DBC;
 }
 
 ul {
+	font-family: Arial, sans-serif;
+	font-size: 24px;
 	text-align: left;
 	list-style-type: none;
 	color: #B81DBC;
 }
 
-img {width: 800px;
+img {width: 1200px;
 height: auto;
 }
 
