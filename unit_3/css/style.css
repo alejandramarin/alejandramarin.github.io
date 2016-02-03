@@ -12,9 +12,9 @@ color: #B81DBC;
 }
 #slogan {font-style: italic;
 font-size: 24px;
-font-weight: bold;
-text-align right;
-color: 0,0,0;
+font-weight: normal;
+text-align: center;
+color: white;
 }
 
 p {font-family: Arial, sans-serif;
