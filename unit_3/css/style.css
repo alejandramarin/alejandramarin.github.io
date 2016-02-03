@@ -1,17 +1,17 @@
 body {
 	text-align: left;
-	background-color: #fff
+	background-color: #432C44
 }
 h1 {font-family: Arial, sans-serif;
-font-size: 26px;
+font-size: 30px;
 font-weight: bold;
 font-style: normal;
 color: #B81DBC;
 }
 #slogan {font-style: italic;
 font-size: 24px;
-font-weight: bold
-text-align: right;
+font-weight: bold;
+text-align right;
 color: 0,0,0;
 }
 
@@ -20,4 +20,21 @@ font-size: 20px;
 font-weight: normal;
 font-style: normal;
 color: #B81DBC;
+}
+
+ul {
+	text-align: center;
+	list-style-type: none;
+	color: #B81DBC;
+}
+
+img {width: 540px;
+height: auto;
+}
+
+a {font-weight: bold;
+font size: 20px;
+text-align: right;
+color: white;
+text-decoration: underline;
 }
