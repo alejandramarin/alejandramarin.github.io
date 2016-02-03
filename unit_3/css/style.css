@@ -15,7 +15,7 @@ font-size: 24px;
 font-weight: normal;
 text-align: center;
 color: white;
-padding-top: 5px;
+padding-top: 3px;
 }
 
 p {font-family: Arial, sans-serif;
@@ -38,7 +38,7 @@ padding-left: 80px;
 
 img {width: 1200px;
 height: auto;
-padding-top: 20px;
+padding-top: 10px;
 padding-right: 80px;
 padding-left: 80px;
 }
@@ -47,7 +47,6 @@ a {
 	font-family: Arial, sans-serif;
 	font-weight: bold;
 font size: 20px;
-text-align: center;
 color: white;
 text-decoration: underline;
 padding-right: 80px;
