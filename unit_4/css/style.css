@@ -1,15 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans);
 
-
-head {
-	background-color: #ffffff;
-}
 .logo {
 	width: 350px;
 	height: auto;
 	background-color: #ffffff;
-		}
+	padding-left: 0px;
+	padding-bottom: 5px;
+	}
 
 /* resize images */
 .logo img {
@@ -30,6 +28,7 @@ font-weight: normal;
 font-style: normal;
 text-align: right;
 color: #ffffff;
+padding-right: 5px
 }
 p {
 	font-family: 'Droid Sans', sans-serif;
