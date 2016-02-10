@@ -3,6 +3,7 @@
 .logo {
 	width: 20px;
 	height: auto;
+	background-color: #ffffff;
 }
 
 body {
@@ -37,7 +38,7 @@ ul {
 padding-left: 80px;
 }
 
-img {
+.sacmi {
 background-color: #ffffff;
 	width: 1200px;
 height: auto;
