@@ -6,11 +6,10 @@ head {
 	background-color: #ffffff;
 }
 .logo {
-	width: 400px;
+	width: 350px;
 	height: auto;
 	background-color: #ffffff;
-	background-size: 1200px;
-	}
+		}
 
 /* resize images */
 .logo img {
