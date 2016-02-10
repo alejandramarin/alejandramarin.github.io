@@ -1,5 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
 
+.logo {
+	width: 120px;
+	height: auto;
+}
 
 body {
 	text-align: left;
