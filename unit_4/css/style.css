@@ -1,26 +1,24 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
 
+#logo {
+ padding-left: 5px;
+ padding-top: 5px;
+}
 body {
 	text-align: left;
-	background-color: #432C44
+	background-color: #A8518A;
 }
-h1 {font-family: Arial, sans-serif;
+h1 {
+	font-family: 'Lobster', cursive;
 font-size: 30px;
 font-weight: bold;
 font-style: normal;
-text-align: center;
+text-align: right;
 background-color: white;
-color: #B81DBC;
+color: #A8518A;
 }
-#slogan {font-family: 'Lobster', cursive;
-font-size: 24px;
-font-weight: normal;
-text-align: center;
-color: white;
-padding-top: 3px;
-}
-
-p {font-family: Arial, sans-serif;
+p {
+	font-family: Arial, sans-serif;
 font-size: 20px;
 font-weight: normal;
 font-style: normal;
