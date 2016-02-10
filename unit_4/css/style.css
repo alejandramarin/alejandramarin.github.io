@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
 
 .logo {
-	width: 20px;
+	width: 120px;
 	height: auto;
 	background-color: #ffffff;
 }
@@ -10,6 +10,7 @@
 .logo img {
 	width: 120px;
 	height: auto;
+	background-color: #ffffff;
 }
 
 body {
