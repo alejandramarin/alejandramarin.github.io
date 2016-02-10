@@ -1,19 +1,21 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
 
+
+head {
+	background-color: #ffffff;
+}
 .logo {
 	width: 400px;
 	height: auto;
 	background-color: #ffffff;
-	background-size: 1200px
-}
+	}
 
 /* resize images */
 .logo img {
 	width: 100%;
 	height: auto;
 	background-color: #ffffff;
-	background-size: 100%
-}
+	}
 
 body {
 	text-align: left;
@@ -22,18 +24,18 @@ body {
 h1 {
 	font-family: 'Lobster', cursive;
 font-size: 30px;
-font-weight: bold;
+font-weight: normal;
 font-style: normal;
 text-align: right;
-background-color: white;
-color: #A8518A;
+color: #ffffff;
+background-color: #A8518A;
 }
 p {
 	font-family: Arial, sans-serif;
 font-size: 20px;
 font-weight: normal;
 font-style: normal;
-color: #B81DBC;
+color: #ffffff;
 padding: 30px 80px 20px 80px; 
 }
 
@@ -42,7 +44,7 @@ ul {
 	font-size: 20px;
 	text-align: left;
 	list-style-type: none;
-	color: #B81DBC;
+	color: #ffffff;
 	padding-right: 80px;
 padding-left: 80px;
 }
