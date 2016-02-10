@@ -6,6 +6,12 @@
 	background-color: #ffffff;
 }
 
+/* resize images */
+.logo img {
+	width: 30px;
+	height: auto;
+}
+
 body {
 	text-align: left;
 	background-color: #A8518A;
