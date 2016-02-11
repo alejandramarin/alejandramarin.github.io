@@ -1,6 +1,28 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans);
 
+header {
+	background-color: #FFed74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #e8c66a;
+}
+
+article {
+	background-color: #e89c6c;
+}
+
+footer {
+	background-color: #ff957e;
+}
+
+div, section {
+	background-color: #ffe2b8;
+}
+
 .logo {
 	width: 350px;
 	height: auto;
