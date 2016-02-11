@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans);
+
+.logo {
+	width: 350px;
+	height: auto;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-bottom: 5px;
+	background-size: 1200px
+	'Droid Sans', sans-serif}
+
+/* resize images */
+.logo img {
+	width: 100%;
+	height: auto;
+	background-color: #ffffff;
+	background-position: right;
+	background-size: 100%
+	}
+
+body {
+	text-align: left;
+	background-color: #A8518A;
+}
+h1 {
+	font-family: 'Lobster', cursive;
+font-size: 30px;
+font-weight: normal;
+font-style: normal;
+text-align: right;
+color: #ffffff;
+padding-right: 5px
+}
+p {
+	font-family: 'Droid Sans', sans-serif;
+font-size: 20px;
+font-weight: normal;
+font-style: normal;
+color: #ffffff;
+line-height: 1.2em;
+margin: 2em;
+padding-top: 10px;
+}
+
+strong { 
+font-weight: small-caps;
+}
+
+ul {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 20px;
+	text-align: left;
+	list-style-type: none;
+	color: #ffffff;
+	padding-right: 80px;
+padding-left: 80px;
+line-height: 1.5em
+}
+
+img {
+	width: 1200px;
+height: auto;
+margin: 2em;
+padding-top: 10px;
+}
+
+a {
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+font size: 20px;
+color: white;
+text-decoration: underline;
+margin: 2em;
+}
