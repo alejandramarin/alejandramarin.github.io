@@ -12,13 +12,13 @@
 
 #two_column {
 	background-color: #D2D3D5;
-	border: 1px;
+	border: 1px black solid;
 	padding: 20px;
 }
 
 #left {
 	background-color: none;
-	border: 1px;
+	border: 1px black solid;
 	padding: 20px;
 	float: left;
 	width: 5%
@@ -27,10 +27,10 @@
 #right {
 	background-color: #D2D3D5;
 	font-family: 'Droid Sans', sans-serif;
-	border: 1px;
+	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 50%;
+	width: 65%;
 }
 
 nav {
