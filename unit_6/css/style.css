@@ -65,12 +65,20 @@ a {
 	color: white;
 	text-decoration: none;
 	margin: 2em;
+	display: block;
 }
 a:hover {
 	background-color: #D2D3D5;
 	text-decoration: none;
 	color: white;
 	font-weight: bold;
+}
+
+.menu {
+	float: right;
+	text-decoration: none;
+	background-color: #D2D3D5;
+	margin: 2em;
 }
 .clearfix:after {
 	visibility: hidden;
@@ -95,11 +103,6 @@ a:hover {
 	width: 25%
 }
 
-.menu {
-	float: right;
-	text-decoration: none;
-	background-color: #D2D3D5;
-	margin: 2em;
-}
+
 
 
