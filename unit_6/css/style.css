@@ -79,6 +79,7 @@ a:hover {
 	text-decoration: none;
 	margin: 2em;
 	padding: 20px;
+	width: 60%;
 }
 .clearfix:after {
 	visibility: hidden;
