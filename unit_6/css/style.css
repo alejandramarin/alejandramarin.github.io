@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans);
 * { margin:0; padding:0; box-sizing:border-box; }
+
 body {
 	text-align: left;
 	background-color: #A8518A;
@@ -8,7 +9,9 @@ body {
 nav {
 	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif;
+	text-decoration: none;
 }
+
 article {
 	background-color: #A8518A;
 }
@@ -28,6 +31,7 @@ h1 {
 	text-align: right;
 	color: black;
 	padding-right: 5px
+	float: right;
 }
 
 p {
@@ -88,15 +92,6 @@ a:hover {
 	padding: 20px;
 	float: left;
 	width: 25%
-}
-
-#right {
-	background-color: #D2D3D5;
-	font-family: 'Droid Sans', sans-serif;
-	border: 1px;
-	padding: 20px;
-	float: right;
-	width: 65%;
 }
 
 .menu {
