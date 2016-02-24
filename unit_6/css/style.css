@@ -1,9 +1,18 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans);
 
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
 #two_column {
 	background-color: #D2D3D5;
-	border: 1px black solid;
+	border: 1px;
 	padding: 20px;
 }
 
@@ -11,7 +20,7 @@
 	background-color: none;
 	border: 1px;
 	padding: 20px;
-	float: lef;t;
+	float: left;
 	width: 20%
 }
 
@@ -36,7 +45,7 @@ footer {
 }
 
 div, section {
-	background-color: #ffe2b8;
+	background-color: #848688;
 }
 
 body {
