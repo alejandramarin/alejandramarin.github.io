@@ -18,7 +18,7 @@
 
 #left {
 	background-color: none;
-	border: 1px black solid;
+	border: 1px;
 	padding: 20px;
 	float: left;
 	width: 25%
@@ -27,7 +27,7 @@
 #right {
 	background-color: #D2D3D5;
 	font-family: 'Droid Sans', sans-serif;
-	border: 1px black solid;
+	border: 1px;
 	padding: 20px;
 	float: right;
 	width: 65%;
@@ -35,7 +35,13 @@
 
 nav {
 	background-color: #A8518A;
+	font-family: 'Droid Sans', sans-serif;
 }
+
+a:hover {
+	background-color: #D2D3D5;
+	text-decoration: none;
+	 }
 
 article {
 	background-color: #A8518A;
@@ -59,7 +65,7 @@ font-size: 30px;
 font-weight: normal;
 font-style: normal;
 text-align: right;
-color: #ffffff;
+color: black;
 padding-right: 5px
 }
 
