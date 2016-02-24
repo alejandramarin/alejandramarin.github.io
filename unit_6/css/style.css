@@ -6,11 +6,6 @@ body {
 	text-align: left;
 	background-color: #A8518A;
 }
-nav {
-	background-color: #A8518A;
-	font-family: 'Droid Sans', sans-serif;
-	text-decoration: none;
-}
 
 article {
 	background-color: #A8518A;
@@ -57,9 +52,15 @@ img {
 	padding-top: 10px;
 }
 
+nav {
+	background-color: #A8518A;
+	font-family: 'Droid Sans', sans-serif;
+	text-decoration: none;
+}
+
 a {
 	background-color: #A8518A;
-	font-family: Arial, sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 	font-weight: bold;
 	font-size: 20px;
 	color: white;
@@ -77,7 +78,6 @@ a:hover {
 .menu {
 	float: right;
 	text-decoration: none;
-	background-color: #D2D3D5;
 	margin: 2em;
 	padding: 20px;
 }
