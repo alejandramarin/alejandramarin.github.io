@@ -26,9 +26,10 @@
 
 #right {
 	background-color: #D2D3D5;
+	text-decoration: none; 
 	font-family: 'Droid Sans', sans-serif;
 	border: 1px;
-	padding: 15px;
+	padding: 20px;
 	float: right;
 	width: 65%;
 }
