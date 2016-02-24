@@ -72,6 +72,7 @@ a:hover {
 	text-decoration: none;
 	color: white;
 	font-weight: bold;
+	display: block;
 }
 
 .menu {
@@ -79,6 +80,8 @@ a:hover {
 	text-decoration: none;
 	background-color: #D2D3D5;
 	margin: 2em;
+	padding: 20px;
+	display: block;
 }
 .clearfix:after {
 	visibility: hidden;
