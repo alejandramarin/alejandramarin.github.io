@@ -45,16 +45,6 @@ strong {
 	font-weight: small-caps;
 }
 
-ul {
-	font-family: 'Droid Sans', sans-serif;
-	font-size: 20px;
-	text-align: left;
-	list-style-type: none;
-	color: #ffffff;
-	padding-right: 80px;
-	padding-left: 80px;
-	line-height: 1.5em
-}
 
 img {
 	width: 1200px;
@@ -92,7 +82,7 @@ a:hover {
 	padding: 20px;
 }
 
-#left {
+.logo {
 	background-color: none;
 	border: 1px;
 	padding: 20px;
@@ -102,7 +92,6 @@ a:hover {
 
 #right {
 	background-color: #D2D3D5;
-	text-decoration: none; 
 	font-family: 'Droid Sans', sans-serif;
 	border: 1px;
 	padding: 20px;
@@ -110,5 +99,11 @@ a:hover {
 	width: 65%;
 }
 
+.menu {
+	float: right;
+	text-decoration: none;
+	background-color: #D2D3D5;
+	margin: 2em;
+}
 
 
