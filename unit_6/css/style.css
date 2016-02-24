@@ -28,7 +28,7 @@
 	background-color: #D2D3D5;
 	font-family: 'Droid Sans', sans-serif;
 	border: 1px;
-	padding: 20px;
+	padding: 15px;
 	float: right;
 	width: 65%;
 }
@@ -41,6 +41,8 @@ nav {
 a:hover {
 	background-color: #D2D3D5;
 	text-decoration: none;
+	color: white;
+	font-weight: bold;
 	 }
 
 article {
@@ -102,11 +104,4 @@ margin: 2em;
 padding-top: 10px;
 }
 
-a {
-	font-family: Arial, sans-serif;
-	font-weight: bold;
-font size: 20px;
-color: white;
-text-decoration: underline;
-margin: 2em;
-}
+
