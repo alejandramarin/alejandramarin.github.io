@@ -55,7 +55,7 @@ a {
 	font-size: 20px;
 	color: white;
 	text-decoration: none;
-	margin: 0.5em;
+	margin: 1em;
 }
 a:hover {
 	background-color: #D2D3D5;
@@ -68,7 +68,7 @@ a:hover {
 .menu {
 	float: right;
 	text-decoration: none;
-	margin: 0.5em;
+	margin-top: 10em;
 	padding: 0.5em;
 	width: 60%;
 }
