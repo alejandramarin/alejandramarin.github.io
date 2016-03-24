@@ -18,17 +18,6 @@ footer {
 div, section {
 	background-color: #848688;
 }
-h1 {
-	font-family: 'Lobster', cursive;
-	font-size: 30px;
-	font-weight: normal;
-	font-style: normal;
-	text-align: right;
-	color: black;
-	padding-right: 5em;
-	float: right;
-}
-
 p {
 	font-family: 'Droid Sans', sans-serif;
 	font-size: 20px;
@@ -79,8 +68,8 @@ a:hover {
 .menu {
 	float: right;
 	text-decoration: none;
-	margin: 2em;
-	padding: 2em;
+	margin: 1em;
+	padding: 1em;
 	width: 60%;
 }
 .clearfix:after {
@@ -99,7 +88,6 @@ a:hover {
 
 .logo {
 	background-color: none;
-	border: 0.5em;
 	padding: 2em;
 	float: left;
 	width: 30%
