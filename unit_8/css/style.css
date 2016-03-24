@@ -55,7 +55,7 @@ a {
 	font-size: 20px;
 	color: white;
 	text-decoration: none;
-	margin: 1em;
+	margin: 0.5em;
 }
 a:hover {
 	background-color: #D2D3D5;
@@ -68,8 +68,8 @@ a:hover {
 .menu {
 	float: right;
 	text-decoration: none;
-	margin: 1em;
-	padding: 1em;
+	margin: 0.5em;
+	padding: 0.5em;
 	width: 60%;
 }
 .clearfix:after {
@@ -83,12 +83,11 @@ a:hover {
 
 #two_column {
 	background-color: #D2D3D5;
-	padding: 2em;
-}
+	}
 
 .logo {
 	background-color: none;
-	padding: 2em;
+	padding: 1em;
 	float: left;
 	width: 30%
 }
