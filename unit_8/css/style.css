@@ -69,7 +69,7 @@ a:hover {
 	float: right;
 	text-decoration: none;
 	margin-top: 10em;
-	padding: 0.5em;
+	padding-top: 10em;
 	width: 60%;
 }
 .clearfix:after {
