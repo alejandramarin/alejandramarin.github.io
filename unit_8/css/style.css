@@ -129,9 +129,9 @@ a:hover {
 	}
 	.menu {
 		float: none;
-		padding: 0.5em;
-		margin: 1em;
-		width: 100%;
+		padding: 1.5em;
+		margin: 0em;
+		width: 90%;
 	}
 
 	.logo {
