@@ -130,10 +130,9 @@ a:hover {
 	}
 	.menu {
 		float: none;
-		display: block;
 		padding: 0.5em;
 		margin: 1em;
-		width: 100%;
+		width: 90%;
 	}
 
 	.logo {
