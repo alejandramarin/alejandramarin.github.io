@@ -170,6 +170,15 @@ a:hover {
 	.logo {
 		margin: 1em 1em 1em 5em;
 	}
+
+	.c-hamburguer {
+		display: block;
+		position: relative;
+		overflow: hidden;
+		margin: 0;
+		padding: 0;
+		width: 96em;
+	}
 }
 
 
