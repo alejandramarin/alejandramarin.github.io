@@ -180,7 +180,7 @@ a:hover {
 }
 @media (max-width: 375px) {
 	.logo {
-		display: block;
+		display: inline-block;
 		float: left;
 		width: 60%;
 		padding: 1em;
