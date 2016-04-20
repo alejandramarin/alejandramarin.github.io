@@ -125,16 +125,13 @@ a:hover {
 @media (max-width: 900px) {
 	a {
 		font-size: 0.9em;
+		margin: 1.5em;
 	}
 	.menu {
 		float: none;
 		padding: 1em;
 		margin: 1em;
-		width: 100%;
-	}
-
-	a {
-		margin: 2em;
+		width: 90%;
 	}
 
 	.logo {
