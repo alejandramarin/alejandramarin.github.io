@@ -171,6 +171,8 @@ a:hover {
 		margin: 0.5em:;
 	}
 	.logo {
+		display: block;
+		float: none;
 		margin: 1em 1em 1em 1em;
 		width: 90%;
 	}
