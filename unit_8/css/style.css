@@ -156,5 +156,10 @@ a:hover {
 	}
 
 }
+@media (max-width: 768px) {
+	a {
+		margin: 2em;
+	}
+}
 
 
