@@ -13,9 +13,8 @@ article {
 
 footer {
 	background-color: #D2D3D5;
-	margin-top: 2em;
-	height: 3em;
-}
+	margin-top: 1em;
+	}
 
 div, section {
 	background-color: #848688;
@@ -144,7 +143,7 @@ a:hover {
 	.me {
 		float: none;
 		display: block;
-		margin: 0em;
+		margin: 1em 0em;
 		padding: 1em 0em;
 		width: 100%;
 	}
