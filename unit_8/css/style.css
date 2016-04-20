@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans);
+@import url(https://fortawesome.github.io/Font-Awesome/);
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
@@ -104,6 +105,9 @@ a:hover {
 	width: 30%;
 }
 
+.hamburger { display: none;
+}
+
 @media (max-width: 1174px) {
 	.menu {
 		padding: 0.5em;
@@ -187,12 +191,17 @@ a:hover {
 	}
 	.menu {
 		float: right;
-		display: inline-block;
+		display: none;
 		width: 35%;
 		padding: 1em;
 	}
 
+	.hamburger {
+		display: block;
+	}
 
 }
+
+
 
 
