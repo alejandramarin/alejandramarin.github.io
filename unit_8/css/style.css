@@ -4,8 +4,8 @@
 
 body {
 	text-align: left;
-	background-color: #A8518A;
-}
+	background-color: #848688;
+	width: 100%;}
 
 article {
 	background-color: #A8518A;
@@ -13,46 +13,43 @@ article {
 
 footer {
 	background-color: #D2D3D5;
+	margin-top: 2em;
+	height: 3em;
 }
 
 div, section {
 	background-color: #848688;
+	padding: 1em;
+	width: 100%;
 }
 p {
 	font-family: 'Droid Sans', sans-serif;
-	font-size: 20px;
+	font-size: 16px;
 	font-weight: normal;
 	font-style: normal;
-	color: #ffffff;
+	color: 000;
+	float: left;
 	line-height: 1.2em;
-	margin: 2em;
-	padding:2em;
+	margin: 1em;
+	padding: 1.5em;
 }
 
 strong { 
 	font-weight: small-caps;
 }
 
-
-img {
-	width: 80%;
-	height: auto;
-	margin: 2em;
-	padding-top: 1em;
-}
-
 nav {
 	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif;
 	text-decoration: none;
-	width: 60%;
+	width: 65%;
 }
 
 a {
 	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif;
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 1.2em;
 	color: white;
 	text-decoration: none;
 	margin: 1em;
@@ -62,15 +59,16 @@ a:hover {
 	text-decoration: none;
 	color: white;
 	font-weight: bold;
-	margin: 1em;
+	margin: 2em;
 }
 
 .menu {
 	float: right;
 	text-decoration: none;
 	margin-top: 5em;
+	margin-bottom: 1.5em;
 	padding: 1em;
-	width: 60%;
+	width: 65%;
 }
 .clearfix:after {
 	visibility: hidden;
@@ -83,15 +81,72 @@ a:hover {
 
 #two_column {
 	background-color: #D2D3D5;
+	width: 100%;
 	}
 
 .logo {
 	background-color: none;
-	padding: 1em;
+	margin: 2em;
+	padding: 1.5em;
 	float: left;
-	width: 30%
+	width: 25%
 }
 
+.collage {
+	margin: 0.5em;
+	float: right;
+	width: 65%;
+}
 
+.me {
+	background-color: #D2D3D5;
+	margin: 0.5em;
+	float: left;
+	width: 30%;
+}
+
+@media (max-width: 1174px) {
+	.menu {
+		padding: 0.5em;
+	}
+
+}
+
+@media (max-width: 1140px) {
+	.menu {
+		padding: 0.2em;
+	}
+	.logo {
+		margin: 1em;
+		padding: 0.5em:;
+	}
+}
+
+@media (max-width: 900px) {
+	a {
+		font-size: 0.9em;
+	}
+	.menu {
+		padding: 0.1em;
+		margin-top: 2em;
+	}
+	.logo {
+		margin: 0.5em;
+		padding: 0.2em;
+	}
+	.me {
+		float: none;
+		margin: 1em;
+		padding: 1em;
+		width: 100%;
+	}
+	.collage {
+		float: none;
+		margin: 1em;
+		padding: 0.5em;
+		width: 100%;
+	}
+
+}
 
 
