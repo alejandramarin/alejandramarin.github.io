@@ -164,21 +164,15 @@ a:hover {
 @media (max-width: 360px) {
 	
 	a {
-		margin: 1em;
-		display: block;
+		margin: 0.5em;
+		font-size: 0.7em
 	}
 	.logo {
 		margin: 1em 1em 1em 5em;
+		width: 90%;
 	}
 
-	.c-hamburguer {
-		display: block;
-		position: relative;
-		overflow: hidden;
-		margin: 0;
-		padding: 0;
-		width: 96em;
-	}
+
 }
 
 
