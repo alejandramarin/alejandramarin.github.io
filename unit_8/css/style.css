@@ -174,7 +174,12 @@ a:hover {
 		margin: 1em 1em 1em 1em;
 		width: 90%;
 	}
-
+@media (min-width: 300) {
+	.logo {
+		margin: 1em;
+		width: 90%;
+	}
+}
 
 }
 
