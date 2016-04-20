@@ -124,7 +124,7 @@ a:hover {
 @media (max-width: 900px) {
 	a {
 		font-size: 0.9em;
-		margin: 3em;
+		margin: 2.5em;
 	}
 	.menu {
 		float: none;
@@ -136,9 +136,9 @@ a:hover {
 	.logo {
 		float: none;
 		display: block;
-		margin: 1em 1em 1em 3em;
+		margin: 1em 1em 1em 5em;
 		padding: 1em;
-		width: 70%;
+		width: 50%;
 	}
 	.me {
 		float: none;
