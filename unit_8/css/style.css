@@ -173,7 +173,8 @@ a:hover {
 	.logo {
 		display: block;
 		float: none;
-		margin: 1em;
+		margin-left: 1em;
+		margin-right: 1em;
 		width: 50%;
 	}
 
