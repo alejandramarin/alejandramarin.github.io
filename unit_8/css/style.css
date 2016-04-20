@@ -128,14 +128,14 @@ a:hover {
 	}
 	.menu {
 		float: none;
-		padding: 4em;
+		padding: 1em;
 		margin-top: 1em;
 		width: 100%;
 	}
 	.logo {
 		float: none;
-		margin: 0.5em;
-		padding: 0.2em;
+		margin: 2em;
+		padding: 2em;
 		width: 100%;
 	}
 	.me {
