@@ -135,6 +135,7 @@ a:hover {
 	.logo {
 		float: none;
 		margin: 2em;
+		margin-right: 2em;
 		padding: 2em;
 		width: 100%;
 	}
