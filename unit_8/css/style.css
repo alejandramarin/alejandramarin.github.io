@@ -124,6 +124,7 @@ a:hover {
 
 @media (max-width: 900px) {
 	a {
+		display: block;
 		font-size: 0.9em;
 		margin: 2em;
 	}
