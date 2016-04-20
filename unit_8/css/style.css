@@ -132,13 +132,13 @@ a:hover {
 		float: none;
 		padding: 0.5em;
 		margin: 1em;
-		width: 90%;
+		width: 100%;
 	}
 
 	.logo {
 		float: none;
 		display: block;
-		margin: 1.5em;
+		margin: 0em;
 		padding: 1.5em;
 		width: 90%;
 	}
@@ -150,6 +150,7 @@ a:hover {
 	}
 	.collage {
 		float: none;
+		display: block;
 		margin: 1em;
 		padding: 0.5em;
 		width: 90%;
