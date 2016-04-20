@@ -132,6 +132,11 @@ a:hover {
 		margin-top: 1em;
 		width: 100%;
 	}
+
+	a {
+		margin-left: 3em;
+	}
+	
 	.logo {
 		float: none;
 		margin: 3em;
