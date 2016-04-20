@@ -161,14 +161,14 @@ a:hover {
 		margin: 2em;
 	}
 }
-@media (min-width: 360px) {
+@media (min-width: 320px) {
 	
 	a {
 		margin: 0.5em;
 		font-size: 0.7em
 	}
 	a:hover {
-		margin: 0em:;
+		margin: 0.5em:;
 	}
 	.logo {
 		margin: 1em 1em 1em 1em;
