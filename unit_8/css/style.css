@@ -170,13 +170,11 @@ a:hover {
 	a:hover {
 		margin: 0.5em:;
 	}
-	.logo {
-		margin: 1em 1em 1em 1em;
-		width: 90%;
+	
 	}
 @media (min-width: 400) {
 	.logo {
-		margin: 1em;
+		margin: 1em 1em 1em 1em;
 		width: 90%;
 	}
 }
