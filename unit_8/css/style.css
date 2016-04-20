@@ -156,14 +156,16 @@ a:hover {
 	}
 
 }
-@media (max-width: 760px) {
+@media (max-width: 768px) {
 	a {
 		margin: 2em;
 	}
 }
-@media (max-width: 400px) {
+@media (max-width: 360px) {
+	
 	a {
 		margin: 1em;
+		display: block;
 	}
 	.logo {
 		margin: 1em 1em 1em 5em;
