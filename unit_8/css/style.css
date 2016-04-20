@@ -134,9 +134,8 @@ a:hover {
 	}
 	.logo {
 		float: none;
-		margin: 2em;
 		margin-right: 2em;
-		padding: 2em;
+		padding: 1em;
 		width: 100%;
 	}
 	.me {
