@@ -129,7 +129,7 @@ a:hover {
 	}
 	.menu {
 		float: none;
-		padding: 1.5em;
+		padding: 1em;
 		margin: 0em;
 		width: 100%;
 	}
@@ -151,7 +151,7 @@ a:hover {
 		float: none;
 		display: block;
 		margin: 1em;
-		padding: 0.5em;
+		padding: 1em;
 		width: 90%;
 	}
 
