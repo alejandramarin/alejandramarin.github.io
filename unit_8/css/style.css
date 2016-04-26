@@ -194,13 +194,10 @@ a:hover {
 		display: none;
 		width: 35%;
 		padding: 1em;
-		height: 0;
+		height: 9em;
 		overflow: hidden;
 	}
-	.menu.active {
-		height: 20em/40em/
-	}
-
+	
 	.hamburger {
 		display: block;
 		float: right;
@@ -209,8 +206,19 @@ a:hover {
 		margin-top: 1.5em;
 		color: #A8518A;
 		background-color: #D2D3D5;
+		cursor: pointer;
 	}
 
+	.cross {
+		display: block;
+		float: right;
+		width: 20%;
+		padding: 1em;
+		margin-top: 1.5em;
+		color: #A8518A;
+		background-color: #D2D3D5;
+		cursor: pointer;
+	}
 }
 
 

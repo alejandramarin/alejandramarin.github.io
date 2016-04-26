@@ -34,16 +34,16 @@ $( document ).ready(function() {
 $( ".cross" ).hide();
 $( ".menu" ).hide();
 $( ".hamburger" ).click(function() {
-$( ".menu" ).slideToggle( "slow", function() {
+$( ".menu" ).toggle( "active", function() {
 $( ".hamburger" ).hide();
-$( ".cross" ).show();
+$( ".cross" ).active();
 });
 });
 
 $( ".cross" ).click(function() {
-$( ".menu" ).slideToggle( "slow", function() {
+$( ".menu" ).slideToggle( "active", function() {
 $( ".cross" ).hide();
-$( ".hamburger" ).show();
+$( ".hamburger" ).active();
 });
 });
 
