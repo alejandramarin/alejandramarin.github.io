@@ -14,7 +14,8 @@ article {
 
 footer {
 	background-color: #D2D3D5;
-	margin-top: 1em;
+	margin: 0em;
+	text-decoration: none;
 	}
 
 div, section {
@@ -33,18 +34,12 @@ p {
 	margin: 1em;
 	padding: 1.5em;
 }
-
-strong { 
-	font-weight: small-caps;
-}
-
 nav {
 	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif;
 	text-decoration: none;
 	width: 65%;
 }
-
 a {
 	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif;
@@ -57,11 +52,10 @@ a {
 a:hover {
 	background-color: #D2D3D5;
 	text-decoration: none;
-	color: white;
+	color: black;
 	font-weight: bold;
 	margin: 2em;
 }
-
 .menu {
 	float: right;
 	text-decoration: none;
@@ -78,7 +72,6 @@ a:hover {
 	clear: both;
 	height: 0;
 }
-
 #top {
 	background-color: #D2D3D5;
 	width: 100%;
@@ -91,22 +84,85 @@ a:hover {
 	float: left;
 	width: 25%
 }
-
-.collage {
-	margin: 0.5em;
-	float: right;
-	width: 65%;
-}
-
-.me {
+#contact {
+	float: none;
 	background-color: #D2D3D5;
-	margin: 0.5em;
-	float: left;
-	width: 30%;
+	color: black;
+	text-decoration: none;
+	font-weight: normal;
+	padding: 3em;
+	border: 0;
+	margin: 0em;
 }
-
 .hamburger { display: none;
 }
+.link {
+	border: 0;
+	background-color: #848688;
+	margin: 0;
+}
+.under {
+	width: 97%;
+	padding: 0.5em 0em 0.5em 1em;
+	margin: 0em 0em 0em 1em;
+	text-decoration: none;
+	color: 000;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #D2D3D5;
+}
+.left {
+	float: left;
+	width: 50%;
+}
+.right {
+	float: right;
+	width: 50%;
+}
+.img1 {
+	width: 100%;
+	padding: 1em 1em 0em 1em;
+}
+.img2 {
+	width: 100%;
+	padding: 1em 1em 0em 1em;
+}
+.img3 {
+	width: 100%;
+	padding: 1em 1em 0em 1em;
+}
+.img4 {
+	width: 100%;
+	padding: 1em 1em 0em 1em;
+}
+.img5 {
+	width: 100%;
+	padding: 1em 1em 0em 1em;
+}
+.img6 {
+	width: 100%;
+	padding: 1em 1em 0em 1em;
+}
+.img7 {
+	width: 100%;
+	padding: 1em 1em 0em 1em;
+}
+.img8 {
+	width: 100%;
+	padding: 1em 1em 0em 1em;
+}
+.img9 {
+	width: 100%;
+	padding: 1em 1em 0em 1em;
+}
+.img10 {
+	width: 100%;
+	padding: 1em 1em 0em 1em;
+}
+
+
 
 @media (max-width: 1174px) {
 	.menu {
@@ -220,7 +276,3 @@ a:hover {
 		cursor: pointer;
 	}
 }
-
-
-
-

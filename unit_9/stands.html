@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+	<title>"Stands"</title> 
+	<link rel="stylesheet" type="text/css" href="css/stands_style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js">
+	</script>
+</head>	
+<body> 
+<div class="wrapper">
+	<header id="top" class="clearfix">
+	<img src="images/logo.png" alt="Alejandra Marin logo" class="logo">
+			<nav class="menu">
+				<a href="index.html">Home</a>	
+				<a href="stands.html ">Stands</a>
+				<a href="graphic.html">Graphic</a>
+				<a href="retail.html">Retail</a>
+				<a href="renders.html">Renders</a>
+				<a href="animation.html">Animation</a>
+			</nav>
+			<div class="hamburger"><i class="fa fa-bars" aria-hidden="true"></i></div>
+		</header>
+		<section id= "images" class="clearfix">
+		<div class="left">
+		<a class="link" href="images/sacmi4.jpg">
+		<img src="images/sacmi2.jpg" alt="sacmi" class="img1">
+		</a>
+		<p class="under">Stand Sacmi. Bogota,Colombia.</p>
+		</div>
+		<div class="right">
+		<img src="images/kienyke2.jpg" alt="kienyke" class="img2">
+		<p class="under">Stand Kien&Ke. Bogota, Colombia.</p>
+		</div>
+		<div class="left">
+		<img src="images/fashiontrends.jpg" alt="fahion" class="img3">
+		<p class="under">Fashion Event Experience. Bogota, Colombia.</p>
+		</div>
+		<div class="right">
+		<img src="images/natura_stand1.jpg" alt="natura" class="img4">
+		<p class="under">Stand Natura. Medellin Colombia.</p>
+		</div>
+		<div class="left">
+		<img src="images/resinplast1.jpg" alt="resinplast" class="img5">
+		<p class="under">Stand Resinplast. Bogota, Colombia</p>
+		</div>
+		<div class="right">
+		<img src="images/window3.png" alt="mariohernandez" class="img6">
+		<p class="under">Mario Hernandez Visual Merchandising. Colombia.</p>
+		</div>
+		<div class="left">
+		<img src="images/catastro1.jpg" alt="catastrobogota" class="img7">
+		<p class="under">Stand Catastro Bogota. Bogota, Colombia.</p>
+		</div>
+		<div class="right">
+		<img src="images/andinapack2.jpg" alt="andinapack" class="img8">
+		<p class="under">Stand Andinapack 2011. Bogota, Colombia.</p>
+		</div>
+		<div class="left">
+		<img src="images/artesanias3.jpg" alt="artesaniasdecolombia" class="img9">
+		<p class="under">Stands Artesanias de Colombia. Bogota, Colombia.</p>
+		</div>
+		<div class="right">
+		<img src="images/cryogas1.jpg" alt="cryogas" class="img10">
+		<p class="under">Stand Cryogas. Bogota, Colombia.</p>
+		</div>
+		</section>
+	<footer id="contact">
+			<a href="mailto:magma.alejandra@gmail.com">Contact me</a> 
+		</footer>	
+	</div>
+<script>
+$( document ).ready(function() {
+$( ".hamburger" ).click(function() {
+$( ".menu" ).toggle( "active", function() {
+$( ".hamburger" ).hide();
+$( ".cross" ).active();
+});
+});
+
+$( ".cross" ).click(function() {
+$( ".menu" ).slideToggle( "active", function() {
+$( ".cross" ).hide();
+$( ".hamburger" ).active();
+});
+});
+
+});
+
+</script>
+</body>
+</html>

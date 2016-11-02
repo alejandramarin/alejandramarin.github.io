@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+	<title>"Graphic"</title> 
+	<link rel="stylesheet" type="text/css" href="css/graphic_style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js">
+	</script>
+</head>	
+<body> 
+<div class="wrapper">
+	<header id="top" class="clearfix">
+	<img src="images/logo.png" alt="Alejandra Marin logo" class="logo">
+			<nav class="menu">
+				<a href="index.html">Home</a>	
+				<a href="stands.html ">Stands</a>
+				<a href="graphic.html">Graphic</a>
+				<a href="retail.html">Retail</a>
+				<a href="renders.html">Renders</a>
+				<a href="animation.html">Animation</a>
+			</nav>
+			<div class="hamburger"><i class="fa fa-bars" aria-hidden="true"></i></div>
+	</header>
+	<section>
+			<h1>Graphic Design, Photos and Illustrations</h1>
+			<div class="left">
+			<img src="images/card.jpg" alt="illustration" class="img">
+			<p class="under">Postcard Design. Made in Illustrator.</p>
+			</div>
+			<div class="left">
+			<img src="images/illustration.jpg" alt="illustration" class="img">
+			<p class="under">Illustration on Illustrator.</p>
+			</div>
+			<div class="left">
+			<img src="images/photo1.jpg" alt="photo" class="img">
+			<p class="under">Photo edition. Photoshop.</p>
+			</div>
+			<div class="right">
+			<img src="images/photo2.jpg" alt="grupojpc" class="img">
+			<p class="under">Photo edition. Photoshop.</p>
+			</div>
+			<div class="left">
+			<img src="images/magazine.jpg" alt="grupojpc" class="img">
+			<p class="under">Magazine page design.</p>
+			</div>
+			<div class="right">
+			<img src="images/cym.jpg" alt="cymapartamentosturisticos" class="img">
+			<p class="under">Logo Design. Rent apartaments company.</p>
+			</div>
+			<div class="right">
+			<img src="images/avfx.jpg" alt="avfxsoluciones" class="img">
+			<p class="under">Logo design. Audiovisual production company.</p>
+			</div>
+			<div class="right">
+			<img src="images/illustration1.jpg" alt="operahouse" class="img">
+			<p class="under">Opera House Illustration.</p>
+			</div>
+			<div class="right">
+			<img src="images/ilus1.jpg" alt="walk" class="img">
+			<p class="under">Story Board Illustration.</p>
+			</div>
+			<div class="left">
+			<img src="images/animation4.jpg" alt="boy" class="img">
+			<p class="under">Opera House Illustration.</p>
+			</div>
+			<div class="right">
+			<img src="images/animation5.jpg" alt="mum" class="img">
+			<p class="under">Story Board Illustration.</p>
+			</div>
+			<div class="left">
+			<img src="images/animation6.jpg" alt="children" class="img">
+			<p class="under">Story Board Illustration.</p>
+			</div>
+    </section>
+    <footer id="contact">
+    	<a id="contact" href="mailito:magma.alejandra@gmail.com">Contact me: magma.alejandra@gmail.com</a>
+    </footer>
+</div>
+<script>
+$( document ).ready(function() {
+$( ".hamburger" ).click(function() {
+$( ".menu" ).toggle( "active", function() {
+$( ".hamburger" ).hide();
+$( ".cross" ).active();
+});
+});
+
+$( ".cross" ).click(function() {
+$( ".menu" ).slideToggle( "active", function() {
+$( ".cross" ).hide();
+$( ".hamburger" ).active();
+});
+});
+
+});
+
+</script>
+</body>
+</html>

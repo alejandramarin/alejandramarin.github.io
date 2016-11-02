@@ -14,13 +14,25 @@ article {
 
 footer {
 	background-color: #D2D3D5;
-	margin-top: 1em;
-	}
+	margin: 0;
+	text-decoration: none;
+	
+}
 
 div, section {
 	background-color: #848688;
-	padding: 1em;
 	width: 100%;
+}
+h1 {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 2em;
+	font-style: bold;
+	display: inline-block;
+	width: 100%;
+	color: white;
+	text-align: center;
+	margin: 0.5em;
+	padding: 0.5em;
 }
 p {
 	font-family: 'Droid Sans', sans-serif;
@@ -33,18 +45,12 @@ p {
 	margin: 1em;
 	padding: 1.5em;
 }
-
-strong { 
-	font-weight: small-caps;
-}
-
 nav {
 	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif;
 	text-decoration: none;
 	width: 65%;
 }
-
 a {
 	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif;
@@ -57,11 +63,10 @@ a {
 a:hover {
 	background-color: #D2D3D5;
 	text-decoration: none;
-	color: white;
+	color: black;
 	font-weight: bold;
 	margin: 2em;
 }
-
 .menu {
 	float: right;
 	text-decoration: none;
@@ -78,7 +83,6 @@ a:hover {
 	clear: both;
 	height: 0;
 }
-
 #top {
 	background-color: #D2D3D5;
 	width: 100%;
@@ -92,22 +96,43 @@ a:hover {
 	width: 25%
 }
 
-.collage {
-	margin: 0.5em;
-	float: right;
-	width: 65%;
-}
-
-.me {
-	background-color: #D2D3D5;
-	margin: 0.5em;
-	float: left;
-	width: 30%;
-}
-
 .hamburger { display: none;
 }
+.under {
+	width: 97%;
+	padding: 0.5em 0em 0.5em 1em;
+	margin: 0em 0em 0em 1em;
+	text-decoration: none;
+	color: 000;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #D2D3D5;
+}
+.left {
+	float: center;
+	width: 75%;
+}
+.right {
+	float: center;
+	width: 75%;
+}
 
+.img {
+	width: 100%;
+	padding: 1em 1em 0em 1em;
+
+}
+#contact {
+	float: none;
+	background-color: #D2D3D5;
+	color: black;
+	text-decoration: none;
+	font-weight: normal;
+	padding: 3em;
+	margin: 3em;
+}
 @media (max-width: 1174px) {
 	.menu {
 		padding: 0.5em;
@@ -220,7 +245,3 @@ a:hover {
 		cursor: pointer;
 	}
 }
-
-
-
-
