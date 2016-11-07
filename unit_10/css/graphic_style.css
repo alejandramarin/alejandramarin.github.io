@@ -112,11 +112,13 @@ a:hover {
 }
 .left {
 	float: center;
-	width: 75%;
+	width: 50%;
+	padding: 20em 5em 20em 5em;
 }
 .right {
 	float: center;
-	width: 75%;
+	width: 50%;
+	padding: 20em 5em 20em 5em;
 }
 
 .img {
