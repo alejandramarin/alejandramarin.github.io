@@ -99,7 +99,7 @@ a:hover {
 .hamburger { display: none;
 }
 .under {
-	width: 50%;
+	width: 97%;
 	padding: 0.5em 0em 0.5em 1em;
 	margin: 0em 0em 0em 1em;
 	text-decoration: none;
@@ -112,11 +112,15 @@ a:hover {
 }
 .left {
 	float: left;
-	padding: 5em 5em 5em 5em;
+	width: 50%;
 }
 .right {
 	float: right;
-	padding: 5em 5em 5em 5em;
+	width: 50%;
+}
+.img {
+	width: 100%;
+	padding: 1em 1em 0em 1em;
 }
 #contact {
 	float: none;
