@@ -115,14 +115,14 @@ a:hover {
 .hamburger { display: none;
 }
 
-@media (max-width: 1174px) {
+@media (max-width: 500px) {
 	.menu {
 		padding: 0.5em;
 	}
 
 }
 
-@media (max-width: 1140px) {
+@media (max-width: 500px) {
 	.menu {
 		padding: 0.2em;
 	}
@@ -132,7 +132,7 @@ a:hover {
 	}
 }
 
-@media (max-width: 900px) {
+@media (max-width: 500px) {
 	a {
 		font-size: 0.9em;
 		margin: 2.5em;
@@ -167,12 +167,12 @@ a:hover {
 	}
 
 }
-@media (max-width: 768px) {
+@media (max-width: 500px) {
 	a {
 		margin: 2em;
 	}
 }
-@media (max-width: 414px) {
+@media (max-width: 500px) {
 	
 	a {
 		margin: 0.5em;
@@ -189,7 +189,7 @@ a:hover {
 	}
 
 }
-@media (max-width: 375px) {
+@media (max-width: 500px) {
 	.logo {
 		float: left;
 		width: 60%;
