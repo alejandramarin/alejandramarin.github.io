@@ -95,8 +95,22 @@ a:hover {
 	float: left;
 	width: 25%
 }
-
+#contact {
+	float: none;
+	background-color: #D2D3D5;
+	color: black;
+	text-decoration: none;
+	font-weight: normal;
+	padding: 3em;
+	border: 0;
+	margin: 3em;
+}
 .hamburger { display: none;
+}
+.link {
+	border: 0;
+	background-color: #848688;
+	margin: 0;
 }
 .under {
 	width: 97%;
@@ -122,15 +136,7 @@ a:hover {
 	width: 100%;
 	padding: 1em 1em 0em 1em;
 }
-#contact {
-	float: none;
-	background-color: #D2D3D5;
-	color: black;
-	text-decoration: none;
-	font-weight: normal;
-	padding: 3em;
-	margin: 3em;
-}
+
 @media (max-width: 1174px) {
 	.menu {
 		padding: 0.5em;
