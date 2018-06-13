@@ -112,12 +112,10 @@ a:hover {
 }
 .left {
 	float: left;
-	width: 5em;
 	padding: 5em 5em 5em 5em;
 }
 .right {
 	float: right;
-	width: 5em;
 	padding: 5em 5em 5em 5em;
 }
 #contact {
