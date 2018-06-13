@@ -166,19 +166,6 @@ a:hover {
 	width: 100%;
 	padding: 1em 1em 0em 1em;
 }
-.previous {
-	background-color: #D2D3D5;
-	color: black;
-}
-.next {
-	background-color: #D2D3D5;
-	color: white;
-}
-.round {
-	border-radius: 50%
-}
-
-
 
 @media (max-width: 1174px) {
 	.menu {
