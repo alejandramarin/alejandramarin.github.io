@@ -99,7 +99,7 @@ a:hover {
 .hamburger { display: none;
 }
 .under {
-	width: 97%;
+	width: 50%;
 	padding: 0.5em 0em 0.5em 1em;
 	margin: 0em 0em 0em 1em;
 	text-decoration: none;
@@ -111,12 +111,12 @@ a:hover {
 	background-color: #D2D3D5;
 }
 .left {
-	float: center;
+	float: left;
 	width: 50%;
 	padding: 20em 5em 20em 5em;
 }
 .right {
-	float: center;
+	float: right;
 	width: 50%;
 	padding: 20em 5em 20em 5em;
 }
