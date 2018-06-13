@@ -99,8 +99,7 @@ a:hover {
 .hamburger { display: none;
 }
 .under {
-	min-width: 20%;
-	max-width: 50%;
+	width: 50%;
 	padding: 0.5em 0em 0.5em 1em;
 	margin: 0em 0em 0em 1em;
 	text-decoration: none;
