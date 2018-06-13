@@ -116,6 +116,12 @@ a:hover {
 	max-width: 50%;
 	padding: 20em 5em 20em 5em;
 }
+.center {
+	float: center;
+	min-width: 50%;
+	max-width: 50%;
+	padding: 20em 5em 20em 5em;
+}
 .right {
 	float: right;
 	min-width: 20%;
