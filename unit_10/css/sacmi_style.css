@@ -109,7 +109,7 @@ a:hover {
 	vertical-align: middle;
 }
 
-/*Responsive layout - makes a two column-layout instead of four columns */
+/*Responsive layout - makes a one column-layout instead of two columns */
 @media screen and (max-width: 800px) {
 	.column {
 		flex: 50%;
@@ -117,10 +117,122 @@ a:hover {
 	}
 }
 
-/*Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+/*Responsive layout - makes the one column stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
 	.column {
 		flex:100%;
 		max-width: 100%;
+	}
+}
+@media (max-width: 1174px) {
+	.menu {
+		padding: 0.5em;
+	}
+
+}
+
+@media (max-width: 1140px) {
+	.menu {
+		padding: 0.2em;
+	}
+	.logo {
+		margin: 1em;
+		padding: 0.5em:;
+	}
+}
+
+@media (max-width: 900px) {
+	a {
+		font-size: 0.9em;
+		margin: 2.5em;
+	}
+	.menu {
+		float: none;
+		padding: 0.5em;
+		margin: 0em;
+		width: 100%;
+	}
+
+	.logo {
+		float: none;
+		display: block;
+		margin: 1em 1em 1em 12em;
+		padding: 1em;
+		width: 50%;
+	}
+	.me {
+		float: none;
+		display: block;
+		margin: 1em 0em;
+		padding: 1em;
+		width: 100%;
+	}
+	.collage {
+		float: none;
+		display: block;
+		margin: 0em;
+		padding: 0em;
+		width: 100%;
+	}
+
+}
+@media (max-width: 768px) {
+	a {
+		margin: 2em;
+	}
+}
+@media (max-width: 414px) {
+	
+	a {
+		margin: 0.5em;
+		font-size: 0.7em
+	}
+	a:hover {
+		margin: 0.5em:;
+	}
+	.logo {
+		display: block;
+		float: none;
+		margin-left: 2em;
+		width: 70%;
+	}
+
+}
+@media (max-width: 375px) {
+	.logo {
+		float: left;
+		width: 60%;
+		margin: 0em;
+		padding: 1em;
+	}
+	.menu {
+		float: right;
+		display: none;
+		width: 35%;
+		padding: 1em;
+		height: 9em;
+		overflow: hidden;
+	}
+	
+	.hamburger {
+		display: block;
+		float: right;
+		width: 20%;
+		padding: 1em;
+		margin-top: 1.5em;
+		color: #A8518A;
+		background-color: #D2D3D5;
+		cursor: pointer;
+	}
+
+	.cross {
+		display: block;
+		float: right;
+		width: 20%;
+		padding: 1em;
+		margin-top: 1.5em;
+		color: #A8518A;
+		background-color: #D2D3D5;
+		cursor: pointer;
 	}
 }
