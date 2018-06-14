@@ -21,7 +21,7 @@ footer {
 div, section {
 	background-color: #848688;
 	padding: 1em;
-	width: 65%;
+	width: 100%;
 }
 p {
 	font-family: 'Droid Sans', sans-serif;
@@ -68,7 +68,7 @@ a:hover {
 	margin-top: 5em;
 	margin-bottom: 1.5em;
 	padding: 1em;
-	width: 10%;
+	width: 20%;
 }
 .clearfix:after {
 	visibility: hidden;
