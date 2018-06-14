@@ -87,7 +87,6 @@ a:hover {
 	background-color: none;
 	margin: 2em;
 	padding: 1.5em;
-	float: left;
 	width: 25%
 }
 .hamburger { display: none;
@@ -100,8 +99,8 @@ a:hover {
 
 /*Create four equal columns that sits next to each other*/
 .column {
-	flex: 25%;
-	max-width: 25%;
+	flex: 50%;
+	max-width: 100%;
 	padding: 0 4px;
 }
 
