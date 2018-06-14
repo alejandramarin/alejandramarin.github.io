@@ -23,17 +23,6 @@ div {
 	padding: 1em;
 	width: 25%;
 	}
-p {
-	font-family: 'Droid Sans', sans-serif;
-	font-size: 16px;
-	font-weight: normal;
-	font-style: normal;
-	color: 000;
-	float: left;
-	line-height: 1.2em;
-	margin: 1em;
-	padding: 1.5em;
-}
 
 strong { 
 	font-weight: small-caps;
@@ -99,8 +88,8 @@ a:hover {
 
 /*Create two equal columns that sits next to each other*/
 .column {
-	flex: 15%;
-	max-width: 25%;
+	flex: 10%;
+	max-height: : 15%;
 	padding: 8px;
 }
 
