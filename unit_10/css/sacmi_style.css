@@ -68,7 +68,7 @@ a:hover {
 	margin-top: 5em;
 	margin-bottom: 1.5em;
 	padding: 1em;
-	width: 65%;
+	width: 20%;
 }
 .clearfix:after {
 	visibility: hidden;
@@ -82,22 +82,13 @@ a:hover {
 	background-color: #D2D3D5;
 	width: 100%;
 	}
-
 .logo {
+	float: right;
 	background-color: none;
 	margin: 2em;
 	padding: 1.5em;
 	float: left;
 	width: 25%
-}
-#contact {
-	background-color: #D2D3D5;
-	color: black;
-	text-decoration: none;
-	font-weight: normal;
-	padding: 3em;
-	border: 0;
-	margin: 0em;
 }
 .hamburger { display: none;
 }
