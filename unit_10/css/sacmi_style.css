@@ -92,7 +92,7 @@ a:hover {
 .hamburger { display: none;
 }
 .row {
-	display: flex;
+	display: wrap;
 	flex-wrap: wrap;
 	padding: 0 4px;
 }
