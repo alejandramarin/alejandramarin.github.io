@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+	<title>"Sacmi"</title> 
+	<link rel="stylesheet" type="text/css" href="css/sacmi_style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js">
+	</script>
+</head>
+<body>
+	<div class="wrapper">
+	<header id="top" class="clearfix">
+	<img src="images/logo.png" alt="Alejandra Marin logo" class="logo">
+			<nav class="menu">
+				<a href="index.html">Home</a>	
+				<a href="stands.html ">Stands</a>
+				<a href="graphic.html">Graphic</a>
+				<a href="retail.html">Retail</a>
+				<a href="renders.html">Renders</a>
+				<a href="animation.html">Animation</a>
+			</nav>
+			<div class="hamburger"><i class="fa fa-bars" aria-hidden="true"></i></div>
+		</header>
+			<footer id="contact">
+			<a id="contact" href="mailto:magma.alejandra@gmail.com">Contact me: magma.alejandra@gmail.com</a> 
+		</footer>	
+	</div>
+<script>
+$( document ).ready(function() {
+$( ".hamburger" ).click(function() {
+$( ".menu" ).toggle( "active", function() {
+$( ".hamburger" ).hide();
+$( ".cross" ).active();
+});
+});
+
+$( ".cross" ).click(function() {
+$( ".menu" ).slideToggle( "active", function() {
+$( ".cross" ).hide();
+$( ".hamburger" ).active();
+});
+});
+
+});
+
+</script>
+</body>
+</html>
