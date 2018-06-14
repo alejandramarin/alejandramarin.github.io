@@ -99,8 +99,8 @@ a:hover {
 
 /*Create two equal columns that sits next to each other*/
 .column {
-	flex: 10%;
-	max-width: 25%;
+	flex: 50%;
+	max-width: 100%;
 	padding: 4px;
 }
 
