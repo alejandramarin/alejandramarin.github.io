@@ -97,7 +97,7 @@ a:hover {
 	padding: 4px;
 }
 
-/*Create four equal columns that sits next to each other*/
+/*Create two equal columns that sits next to each other*/
 .column {
 	flex: 10%;
 	max-width: 25%;
