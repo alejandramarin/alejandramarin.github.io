@@ -82,15 +82,15 @@ a:hover {
 
 /*Create two equal columns that sits next to each other*/
 .column {
-	flex: 15%;
-	width: 50%;
+	flex: 5%;
+	width: 5%;
 	padding: 8px;
 }
 
 .column img {
 	margin-top: 8px;
 	vertical-align: middle;
-	width: 60%;
+	width: 5%;
 }
 
 
