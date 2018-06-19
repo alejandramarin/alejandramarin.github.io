@@ -20,7 +20,6 @@ footer {
 
 div, section {
 	background-color: #848688;
-	padding: 1em;
 	width: 100%;
 }
 p {
@@ -104,7 +103,7 @@ a:hover {
 }
 .img {
 	width: 100%;
-	padding: 1em 1em 0em 1em;
+	padding: 0.5em;
 }
 
 
