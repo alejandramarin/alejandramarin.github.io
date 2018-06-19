@@ -103,14 +103,14 @@ a:hover {
 }
 
 .hi {
-	background-color: #D2D3D5;
+	background-color: none;
 	margin: 0.5em;
 	float: left;
 	width: 30%;
 }
 .welcome {
 	background-color: #D2D3D5;
-	font-family: 'Droid Sans', sans-serif;
+	font-family: 'Droid Sans', sans-serif; 
 
 }
 
