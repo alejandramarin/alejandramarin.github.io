@@ -111,6 +111,9 @@ a:hover {
 }
 .welcome {
 	float: right;
+	width: 30%;
+	margin: 0em;
+	padding: 2em;
 	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif; 
 	font-size: 20px;
