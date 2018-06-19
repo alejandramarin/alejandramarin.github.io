@@ -110,7 +110,8 @@ a:hover {
 	width: 30%;
 }
 .welcome {
-	background-color: #D2D3D5;
+	float: right;
+	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif; 
 	font-size: 20px;
 	color: white;
