@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+	<title>"Sacmi"</title> 
+	<link rel="stylesheet" type="text/css" href="css/pass_style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js">
+	</script>
+</head>
+<body>
+	<div class="wrapper">
+	<header id="top" class="clearfix">
+	<img src="images/logo.png" alt="Alejandra Marin logo" class="logo">
+				<nav class="menu">
+				<a href="stands.html">Back</a>	
+			</nav>
+			<div class="hamburger"><i class="fa fa-bars" aria-hidden="true"></i></div>
+		</header>
+	<section id= "images" class="clearfix">
+		<div class="left">
+		<img src="images/artesanias/artesanias1.jpg" alt="Artesanias de Colombia" class="img">
+		</div>
+		<div class="right">
+			<img src="images/artesanias/artesanias6.jpg" alt="Artesanias de Colombia" class="img">
+			
+		</div>
+		<div class="left">
+		<img src="images/artesanias/artesanias2.jpg" alt="Artesanias de Colombia" class="img">
+		</div>
+		<div class="right">
+		<img src="images/artesanias/artesanias4.jpg" alt="Artesanias de Colombia" class="img">
+		</div>
+			
+	</section>
+	
+	<footer id="top" class="clearfix">
+		<nav class="menu">
+			<a href="stands.html">Back</a>
+		</nav>
+	</footer>
+<script>
+$( document ).ready(function() {
+$( ".hamburger" ).click(function() {
+$( ".menu" ).toggle( "active", function() {
+$( ".hamburger" ).hide();
+$( ".cross" ).active();
+});
+});
+
+$( ".cross" ).click(function() {
+$( ".menu" ).slideToggle( "active", function() {
+$( ".cross" ).hide();
+$( ".hamburger" ).active();
+});
+});
+
+});
+
+</script>
+</body>
+</html>
