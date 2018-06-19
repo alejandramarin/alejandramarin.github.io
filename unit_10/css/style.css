@@ -66,13 +66,7 @@ a:hover {
 	margin: 2em;
 }
 
-.menu {
-	text-decoration: none;
-	margin-top: 5em;
-	margin-bottom: 0em;
-	padding: 1em;
-	width: 100%;
-}
+
 .clearfix:after {
 	visibility: hidden;
 	display: block;
@@ -91,10 +85,15 @@ a:hover {
 	background-color: none;
 	margin: 2em;
 	padding: 1.5em;
-	float: left;
 	width: 50%;
 }
-
+.menu {
+	text-decoration: none;
+	margin-top: 5em;
+	margin-bottom: 0em;
+	padding: 1em;
+	width: 100%;
+}
 .collage {
 	margin: 0.5em;
 	float: right;
