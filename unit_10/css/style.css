@@ -46,7 +46,7 @@ nav {
 	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif;
 	text-decoration: none;
-	width: 65%;
+	width: 100%;
 }
 
 a {
@@ -67,12 +67,11 @@ a:hover {
 }
 
 .menu {
-	float: right;
 	text-decoration: none;
 	margin-top: 5em;
 	margin-bottom: 0em;
 	padding: 1em;
-	width: 65%;
+	width: 100%;
 }
 .clearfix:after {
 	visibility: hidden;
@@ -93,7 +92,7 @@ a:hover {
 	margin: 2em;
 	padding: 1.5em;
 	float: left;
-	width: 25%
+	width: 50%;
 }
 
 .collage {
@@ -107,7 +106,6 @@ a:hover {
 	color: white;
 	padding: 2em;
 	margin: 0.5em;
-	float: middle;
 	width: 30%;
 }
 .welcome {
