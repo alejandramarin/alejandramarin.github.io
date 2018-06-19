@@ -106,8 +106,8 @@ a:hover {
 }
 .under {
 	width: 100%;
-	padding: 1em 0em 0.5em 1em;
-	margin: 1em 0em 0em 1em;
+	padding: 1em;
+	margin: 1em;
 	text-decoration: none;
 	color: 000;
 	font-family: 'Droid Sans', sans-serif;
@@ -126,8 +126,8 @@ a:hover {
 }
 .img {
 	width: 100%;
-	padding: 0.5em 0em 0.5em 1em;
-	margin: 0em 0em 0em 1em;
+	padding: 1em;
+	margin: 1em;
 }
 
 @media (max-width: 1174px) {
