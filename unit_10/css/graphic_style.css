@@ -95,7 +95,7 @@ a:hover {
 	font-weight: normal;
 	padding: 0em;
 	border: 0;
-	margin: 3em;
+	margin: 0em;
 }
 .hamburger { display: none;
 }
@@ -107,7 +107,7 @@ a:hover {
 .under {
 	width: 100%;
 	padding: 1em;
-	margin: 1em 0em 1em 1em;
+	margin: 3em 0.5em 3em 0.5em;
 	text-decoration: none;
 	color: 000;
 	font-family: 'Droid Sans', sans-serif;
@@ -126,8 +126,7 @@ a:hover {
 }
 .img {
 	width: 100%;
-	padding: 1em;
-	margin: 1em;
+	padding: 0.5em;
 }
 
 @media (max-width: 1174px) {
