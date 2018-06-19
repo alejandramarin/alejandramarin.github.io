@@ -20,7 +20,9 @@ footer {
 
 div, section {
 	background-color: #848688;
-	width: 50%;
+	padding: 1em;
+	width: 100%;
+	height: 20%;
 }
 p {
 	font-family: 'Droid Sans', sans-serif;
@@ -62,12 +64,12 @@ a:hover {
 	margin: 2em;
 }
 .menu {
-	float: right;
+	float: left;
 	text-decoration: none;
 	margin-top: 5em;
 	margin-bottom: 1.5em;
 	padding: 1em;
-	width: 65%;
+	width: 20%;
 }
 .clearfix:after {
 	visibility: hidden;
@@ -81,25 +83,22 @@ a:hover {
 	background-color: #D2D3D5;
 	width: 100%;
 	}
-
 .logo {
+	float: right;
 	background-color: none;
 	margin: 2em;
 	padding: 1.5em;
-	float: left;
 	width: 25%
 }
-
 .hamburger { display: none;
 }
-
 .left {
 	float: left;
-	width: 25%;
+	width: 50%;
 }
 .right {
 	float: right;
-	width: 25%;
+	width: 50%;
 }
 .img {
 	width: 100%;
@@ -157,12 +156,14 @@ a:hover {
 		padding: 0em;
 		width: 100%;
 	}
+	
 
 }
 @media (max-width: 768px) {
 	a {
 		margin: 2em;
 	}
+	
 }
 @media (max-width: 414px) {
 	
