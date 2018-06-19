@@ -38,8 +38,9 @@ p {
 
 strong { 
 	font-weight: small-caps;
-	font-size: 30px;
+	font-size: 80px;
 	color: #9D2489;
+	float: left;
 }
 
 nav {
