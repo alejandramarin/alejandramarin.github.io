@@ -40,7 +40,6 @@ strong {
 	font-weight: small-caps;
 	font-size: 80px;
 	color: #9D2489;
-	float: left;
 }
 
 nav {
@@ -103,12 +102,18 @@ a:hover {
 	width: 65%;
 }
 
-.me {
+.hi {
 	background-color: #D2D3D5;
 	margin: 0.5em;
 	float: left;
 	width: 30%;
 }
+.welcome {
+	background-color: #D2D3D5;
+	font-family: 'Droid Sans', sans-serif;
+
+}
+
 #contact {
 	background-color: #D2D3D5;
 	color: black;
