@@ -86,13 +86,12 @@ a:hover {
 	margin: 2em;
 	padding: 1.5em;
 	width: 50%;
-	float: middle;
 }
 .menu {
 	text-decoration: none;
 	margin-top: 5em;
 	margin-bottom: 0em;
-	padding: 5em;
+	padding: 1em;
 	width: 100%;
 }
 .collage {
