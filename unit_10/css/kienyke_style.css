@@ -90,25 +90,18 @@ a:hover {
 }
 .hamburger { display: none;
 }
-.row {
-	display: flex;
-	flex-wrap: wrap;
-	padding: 4px;
+.left {
+	float: left;
+	width: 50%;
 }
-
-
-.column {
-	flex: 25%;
-	max-width: 50%;
-	padding: 8px;
+.right {
+	float: right;
+	width: 50%;
 }
-
-.column img {
-	margin-top: 8px;
-	vertical-align: middle;
-	width: 25%;
+.img1 {
+	width: 100%;
+	padding: 0.5em;
 }
-
 
 @media (max-width: 1174px) {
 	.menu {
