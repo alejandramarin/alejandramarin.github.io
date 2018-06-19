@@ -105,8 +105,9 @@ a:hover {
 .hi {
 	background-color: none;
 	color: white;
+	padding: 2em;
 	margin: 0.5em;
-	float: left;
+	float: center;
 	width: 30%;
 }
 .welcome {
