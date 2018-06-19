@@ -84,8 +84,9 @@ a:hover {
 .logo {
 	background-color: none;
 	margin: 2em;
-	padding: 1.5em;
-	width: 50%;
+	padding: 1em;
+	height: 20%;
+	float: center;
 }
 .menu {
 	text-decoration: none;
