@@ -104,6 +104,7 @@ a:hover {
 
 .hi {
 	background-color: none;
+	color: white;
 	margin: 0.5em;
 	float: left;
 	width: 30%;
@@ -111,6 +112,8 @@ a:hover {
 .welcome {
 	background-color: #D2D3D5;
 	font-family: 'Droid Sans', sans-serif; 
+	font-size: 20px;
+	color: white;
 
 }
 
