@@ -94,11 +94,6 @@ a:hover {
 	padding: 1em;
 	width: 100%;
 }
-.collage {
-	margin: 0.5em;
-	float: right;
-	width: 65%;
-}
 
 .hi {
 	background-color: none;
@@ -117,6 +112,11 @@ a:hover {
 	font-size: 20px;
 	color: white;
 
+}
+
+.img {
+	width: 100%;
+	padding: 0.5em;
 }
 
 #contact {
