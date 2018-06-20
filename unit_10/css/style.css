@@ -131,6 +131,10 @@ a:hover {
 	width: 60%;
 	padding: 0.5em;
 }
+.about {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 20px;
+}
 
 #contact {
 	background-color: #D2D3D5;
