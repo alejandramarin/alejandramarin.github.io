@@ -115,6 +115,7 @@ a:hover {
 	width: 40%;
 }
 .welcome {
+	display: block;
 	float: right;
 	text-align: right;
 	width: 30%;
