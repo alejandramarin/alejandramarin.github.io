@@ -37,12 +37,16 @@ p {
 }
 
 strong { 
-	font-weight: small-caps;
-	font-size: 80px;
+	font-weight: bold;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 20px;
 	color: #9D2489;
 }
 
 nav {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif;
 	text-decoration: none;
@@ -91,12 +95,15 @@ a:hover {
 	
 }
 .menu {
+	display: block;
 	text-decoration: none;
 	margin-top: 5em;
 	margin-bottom: 0em;
+	margin-left: auto;
+	margin-right: auto;
 	padding: 1em;
 	width: 100%;
-	display: inline-block;
+	
 }
 
 .hi {
