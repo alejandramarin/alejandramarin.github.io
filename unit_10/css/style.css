@@ -117,8 +117,8 @@ a:hover {
 .welcome {
 	display: block;
 	float: right;
-	text-align: right;
-	width: 30%;
+	text-align: center;
+	width: 40%;
 	margin: 0em;
 	padding: 2em;
 	background-color: #A8518A;
