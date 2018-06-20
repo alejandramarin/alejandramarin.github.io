@@ -106,16 +106,17 @@ a:hover {
 }
 
 .hi {
+	float: right;
 	font-size: 30px;
 	background-color: none;
 	color: white;
 	padding: 2em;
 	margin: 0.5em;
-	width: 30%;
+	width: 40%;
 }
 .welcome {
 	float: right;
-	width: 30%;
+	width: 40%;
 	margin: 0em;
 	padding: 2em;
 	background-color: #A8518A;
@@ -126,7 +127,8 @@ a:hover {
 }
 
 .img {
-	width: 100%;
+	float: left;
+	width: 60%;
 	padding: 0.5em;
 }
 
