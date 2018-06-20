@@ -82,11 +82,13 @@ a:hover {
 	}
 
 .logo {
+	display: block;
 	background-color: none;
-	margin: 2em;
+	margin-left: auto;
+	margin-right: auto;
 	padding: 1.5em;
 	width: 50%;
-	display: inline-block;
+	
 }
 .menu {
 	text-decoration: none;
