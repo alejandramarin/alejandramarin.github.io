@@ -96,12 +96,11 @@ a:hover {
 	
 }
 .menu {
-	display: block;
 	text-decoration: none;
 	margin-top: 5em;
 	margin-bottom: 0em;
 	text-align: center;
-	padding: 5em;
+	padding: 1em;
 	width: 100%;
 	
 }
