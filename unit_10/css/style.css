@@ -148,12 +148,13 @@ a:hover {
 .me {
 	float: left;
 	width: 60%;
-	background-color:#9D2489;
+	background-color:#A8518A;
 	font-family: 'Droid Sans', sans-serif;
 	font-size: 25px;
 	font-weight: bold;
 }
 .about {
+	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif;
 	font-size: 16px;
 }
