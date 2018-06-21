@@ -32,7 +32,7 @@ p {
 	color: 000;
 	float: left;
 	line-height: 1.2em;
-	margin: 1em;
+	margin: 0;
 	padding: 1.5em;
 }
 
@@ -147,16 +147,21 @@ a:hover {
 }
 .me {
 	float: left;
+	text-align: center;
+	color: white;
 	width: 60%;
 	background-color:#A8518A;
 	font-family: 'Droid Sans', sans-serif;
-	font-size: 25px;
+	font-size: 30px;
 	font-weight: bold;
+	padding: 1em 1em 0.5em 1em;
 }
 .about {
+	width: 60%;
 	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif;
 	font-size: 16px;
+	padding: 0em 1em 1em 1em;
 }
 
 #contact {
