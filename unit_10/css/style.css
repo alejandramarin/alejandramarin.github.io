@@ -40,7 +40,7 @@ strong {
 	font-weight: bold;
 	font-family: 'Droid Sans', sans-serif;
 	font-size: 20px;
-	color: #9D2489;
+	color: white;
 }
 
 nav {
@@ -124,14 +124,13 @@ a:hover {
 	padding: 0.5em;
 	background-color: none;
 	font-family: 'Droid Sans', sans-serif; 
-	font-size: 20px;
+	font-size: 25px;
 	color: black;
 
 }
 .paragraph {
 	display: block;
 	float: right;
-	text-align: center;
 	width: 40%;
 	margin: 0em;
 	padding: 0.5em;
@@ -146,9 +145,17 @@ a:hover {
 	width: 60%;
 	padding: 0.5em;
 }
+.me {
+	float: left;
+	width: 60%
+	background-color:#9D2489;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+}
 .about {
 	font-family: 'Droid Sans', sans-serif;
-	font-size: 20px;
+	font-size: 16px;
 }
 
 #contact {
