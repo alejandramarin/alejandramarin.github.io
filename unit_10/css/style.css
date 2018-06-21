@@ -122,10 +122,10 @@ a:hover {
 	width: 40%;
 	margin: 0em;
 	padding: 2em;
-	background-color: #A8518A;
+	background-color: none;
 	font-family: 'Droid Sans', sans-serif; 
 	font-size: 20px;
-	color: white;
+	color: black;
 
 }
 
