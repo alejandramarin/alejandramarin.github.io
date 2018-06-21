@@ -108,6 +108,7 @@ a:hover {
 .hi {
 	text-align: center;
 	font-size: 50px;
+	font-weight: bold;
 	background-color: none;
 	color: white;
 	padding: 0.5em;
@@ -123,7 +124,7 @@ a:hover {
 	padding: 2em;
 	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif; 
-	font-size: 20px;
+	font-size: 30px;
 	color: white;
 
 }
