@@ -34,6 +34,9 @@ p {
 	line-height: 1.2em;
 	margin: 0;
 	padding: 1.5em;
+	border-style: solid;
+	border-color: #A8518A;
+	border-width: 5px;
 }
 
 strong { 
@@ -138,9 +141,7 @@ a:hover {
 	font-family: 'Droid Sans', sans-serif; 
 	font-size: 16px;
 	color: black;
-	border-style: solid;
-	border-color: #A8518A;
-	border-width: 5px;
+
 }
 
 .img {
