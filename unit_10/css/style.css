@@ -192,6 +192,33 @@ a:hover {
 	color: white;
 }
 
+.skills {
+	float: left;
+	text-align: center;
+	color: white;
+	width: 30%;
+	background-color:#A8518A;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	padding: 1em 1em 0.5em 1em;
+
+}
+
+.skills1 {
+	float: left;
+	text-align: center;
+	color: white;
+	width: 30%;
+	background-color:#A8518A;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	padding: 1em 1em 0.5em 1em;
+
+}
+
+
 #contact {
 	background-color: #D2D3D5;
 	color: black;
