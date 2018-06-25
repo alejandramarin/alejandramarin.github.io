@@ -233,7 +233,7 @@ ul {
 	background-color: #D2D3D5;
 	color: black;
 	font-weight: bold;
-	text-decoration: none;
+	text-decoration: underline;
 	font-weight: normal;
 }
 .hamburger { display: none;
