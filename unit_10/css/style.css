@@ -14,7 +14,7 @@ article {
 
 footer {
 	background-color: #D2D3D5;
-	margin: 1em;
+	margin: 0.5em 0em 0em;
 	padding: 3em;
 	text-decoration: none;
 }
@@ -92,15 +92,15 @@ a:hover {
 	margin-left: auto;
 	margin-right: auto;
 	padding: 1em;
-	width: 25%;
+	width: 15%;
 	
 }
 .menu {
 	text-decoration: none;
-	margin-top: 5em;
+	margin-top: auto;
 	margin-bottom: 0em;
 	text-align: center;
-	padding: 1em;
+	padding: 0.5em;
 	width: 100%;
 	
 }
@@ -159,6 +159,7 @@ a:hover {
 	float: left;
 	width: 60%;
 	padding: 0.5em;
+	border-style: inset;
 }
 .me {
 	float: left;
