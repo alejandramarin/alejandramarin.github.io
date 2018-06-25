@@ -93,11 +93,9 @@ a:hover {
 #contact {
 	background-color: #D2D3D5;
 	color: black;
-	text-decoration: underline;
 	font-weight: bold;
-	padding: 3em;
-	border: 0;
-	margin: auto;
+	text-decoration: underline;
+	
 }
 .hamburger { display: none;
 }
