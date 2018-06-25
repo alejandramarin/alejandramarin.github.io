@@ -207,14 +207,13 @@ a:hover {
 
 .skills1 {
 	float: left;
-	text-align: center;
 	color: white;
-	width: 30%;
+	width: 65%;
 	background-color:#A8518A;
 	font-family: 'Droid Sans', sans-serif;
 	font-size: 16px;
 	font-weight: bold;
-	padding: 1em 1em 0.5em 1em;
+	padding: 0.5em 1em 0.5em 1em;
 
 }
 
@@ -222,7 +221,7 @@ ul {
 	list-style-type: circle;
 	float: left;
 	color: white;
-	width: 30%;
+	width: 65%;
 	background-color:#A8518A;
 	font-family: 'Droid Sans', sans-serif;
 	font-size: 16px;
