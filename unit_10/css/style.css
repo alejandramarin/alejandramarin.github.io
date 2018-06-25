@@ -49,8 +49,7 @@ h1 {
 strong {
 	color: #A8518A;
 	font-weight: bold;
-	font-size: 42px;
-
+	
 }
 
 
@@ -163,8 +162,7 @@ a:hover {
 	font-size: 16px;
 	color: black;
 	border-bottom-style: inset;
-	border-color: #A8518A;
-	border-width: 5px;
+	
 }
 
 .img {
@@ -174,10 +172,10 @@ a:hover {
 	border-style: inset;
 }
 .me {
-	float: left;
+	float: right;
 	text-align: center;
 	color: white;
-	width: 60%;
+	width: 30%;
 	background-color:#A8518A;
 	font-family: 'Droid Sans', sans-serif;
 	font-size: 30px;
@@ -185,7 +183,8 @@ a:hover {
 	padding: 1em 1em 0.5em 1em;
 }
 .about {
-	width: 60%;
+	float: right;
+	width: 30%;
 	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif;
 	font-size: 16px;
