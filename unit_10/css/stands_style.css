@@ -65,7 +65,7 @@ a:hover {
 .menu {
 	float: right;
 	text-decoration: none;
-	margin-top: 0em;
+	margin-top: 5em;
 	margin-bottom: 0em;
 	padding: 0.5em;
 	width: 65%;
@@ -93,8 +93,8 @@ a:hover {
 #contact {
 	background-color: #D2D3D5;
 	color: black;
-	text-decoration: none;
-	font-weight: normal;
+	text-decoration: underline;
+	font-weight: bold;
 	padding: 3em;
 	border: 0;
 	margin: auto;
