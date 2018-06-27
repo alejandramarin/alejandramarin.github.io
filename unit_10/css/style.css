@@ -206,7 +206,7 @@ a:hover {
 }
 
 .skills1 {
-	float: left;
+	float: right;
 	color: white;
 	width: 65%;
 	background-color:#A8518A;
@@ -219,7 +219,7 @@ a:hover {
 
 ul {
 	list-style-type: circle;
-	float: left;
+	float: right;
 	color: white;
 	width: 65%;
 	background-color:#A8518A;
